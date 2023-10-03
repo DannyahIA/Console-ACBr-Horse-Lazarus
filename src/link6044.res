@@ -1,0 +1,887 @@
+SEARCH_DIR(".\modules\.dcp\")
+SEARCH_DIR(".\modules\.dcu\")
+SEARCH_DIR(".\modules\")
+SEARCH_DIR(".\modules\dotenv4delphi\src\")
+SEARCH_DIR(".\modules\horse\src\")
+SEARCH_DIR(".\modules\horse-basic-auth\src\")
+SEARCH_DIR(".\modules\horse-compression\src\")
+SEARCH_DIR(".\modules\horse-cors\src\")
+SEARCH_DIR(".\modules\horse-logger\src\")
+SEARCH_DIR(".\modules\horse-logger-provider-console\src\")
+SEARCH_DIR(".\modules\horse-utils-clientip\src\")
+SEARCH_DIR(".\modules\jhonson\src\")
+SEARCH_DIR(".\modules\json4laz\src\")
+SEARCH_DIR("C:\fpcupdeluxe\lazarus\components\lazutils\")
+SEARCH_DIR("C:\fpcupdeluxe\lazarus\lcl\")
+SEARCH_DIR("C:\fpcupdeluxe\lazarus\lcl\widgetset\")
+SEARCH_DIR(".\model\dto\")
+SEARCH_DIR(".\controller\")
+SEARCH_DIR(".\service\")
+SEARCH_DIR(".\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\httpd22\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rtl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\zorba\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\zlib\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\winunits-jedi\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\winceunits\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\webidl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\vcl-compat\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\utils-pas2js\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\unzip\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\tplylib\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\tcl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\symbolic\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\sqlite\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\sdl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rtl-unicode\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rtl-objpas\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rtl-extra\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rtl-console\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\rsvg\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\regexpr\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\pxlib\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\ptc\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\postgres\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\pcap\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\pastojs\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\pasjpeg\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\oracle\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\openssl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\opengles\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\opengl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\opencl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\openal\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\oggvorbis\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\odbc\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\odata\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\nvapi\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\numlib\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\mysql\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\mad\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\lua\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libxml2\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libvlc\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libusb\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libtar\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libsee\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libpng\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libmicrohttpd\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libgd\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libffi\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libenet\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\libcurl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\jni\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\imagemagick\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\ibase\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\httpd24\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\hermes\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\hash\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\gtk2\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\gtk1\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\graph\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\googleapi\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\gnutls\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\gmp\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\gdbint\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fv\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fppkg\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fpmkunit\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fpindexer\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fpgtk\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fftw\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-xml\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-stl\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-sound\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-sdo\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-res\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-report\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-registry\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-process\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-pdf\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-passrc\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-net\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-json\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-js\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-image\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-fpcunit\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-extra\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-db\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\fastcgi\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\dblib\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\chm\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\cdrom\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\cairo\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\bzip2\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\aspell\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\a52\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\units\i386-win32\")
+SEARCH_DIR("C:\fpcupdeluxe\fpc\bin\i386-win32\")
+INPUT(
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\sysinitpas.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_service.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_service.or
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\system.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\lnfodwrf.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\exeinfo.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\strings.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\windows.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\objpas.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\fpintres.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-json\fpjson.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\sysutils.o
+D:\Development\nfse-backend\src\lib\i386-win32\NT.Http.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\classes.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeX.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.BasicAuthentication.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.CORS.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Jhonson.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Compression.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_certificado_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_health_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_quit_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_getfake_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_empresa_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_relatorios_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_webhook_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\console_controller.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_acbr_service.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-objpas\variants.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\contnrs.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\sysconst.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\rtlconsts.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\typinfo.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\windirs.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\math.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-objpas\varutils.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\types.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrBase.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFe.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeException.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeConfiguracoes.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXConfiguracoes.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXNotasFiscais.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXWebservices.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXClass.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXInterface.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXConversao.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXWebserviceBase.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXDANFSeClass.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\syncobjs.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-objpas\dateutils.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.Strings.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.Math.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrConsts.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\inifiles.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-objpas\strutils.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\dynlibs.o
+D:\Development\nfse-backend\src\lib\i386-win32\lazutf8.o
+D:\Development\nfse-backend\src\lib\i386-win32\lconvencoding.o
+D:\Development\nfse-backend\src\lib\i386-win32\lcltype.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\shellapi.o
+D:\Development\nfse-backend\src\lib\i386-win32\fpcadds.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\gettext.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\dos.o
+D:\Development\nfse-backend\src\lib\i386-win32\codepagescommon.o
+D:\Development\nfse-backend\src\lib\i386-win32\codepagesasian.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\activex.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\ctypes.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.Compatibilidade.o
+D:\Development\nfse-backend\src\lib\i386-win32\synautil.o
+D:\Development\nfse-backend\src\lib\i386-win32\synafpc.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrMail.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrIntegrador.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeSSL.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnConversao.o
+D:\Development\nfse-backend\src\lib\i386-win32\blcksock.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnAuxiliar.o
+D:\Development\nfse-backend\src\lib\i386-win32\synsock.o
+D:\Development\nfse-backend\src\lib\i386-win32\synacode.o
+D:\Development\nfse-backend\src\lib\i386-win32\synaip.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.XMLHTML.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrValidador.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.Base.o
+D:\Development\nfse-backend\src\lib\i386-win32\StrUtilsEx.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrCompress.o
+D:\Development\nfse-backend\src\lib\i386-win32\GZIPUtils.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\zstream.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\zipper.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\zbase.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\gzio.o
+C:\fpcupdeluxe\fpc\units\i386-win32\hash\crc.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\zdeflate.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\zinflate.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\trees.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\adler.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\infblock.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\infutil.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\infcodes.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\inftrees.o
+C:\fpcupdeluxe\fpc\units\i386-win32\paszlib\inffast.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeUtil.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.FilesIO.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeOpenSSL.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeHttpOpenSSL.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeXsLibXml2.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeWinCrypt.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeHttpWinApi.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeXsMsXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrIBGE.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrSocket.o
+D:\Development\nfse-backend\src\lib\i386-win32\httpsend.o
+D:\Development\nfse-backend\src\lib\i386-win32\ssl_openssl.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\wininet.o
+D:\Development\nfse-backend\src\lib\i386-win32\ssl_openssl_lib.o
+D:\Development\nfse-backend\src\lib\i386-win32\Jsons.o
+D:\Development\nfse-backend\src\lib\i386-win32\JsonsUtilsEx.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrUtil.DateTime.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\maskutils.o
+D:\Development\nfse-backend\src\lib\i386-win32\smtpsend.o
+D:\Development\nfse-backend\src\lib\i386-win32\mimepart.o
+D:\Development\nfse-backend\src\lib\i386-win32\mimemess.o
+D:\Development\nfse-backend\src\lib\i386-win32\synachar.o
+D:\Development\nfse-backend\src\lib\i386-win32\mimeinln.o
+D:\Development\nfse-backend\src\lib\i386-win32\synaicnv.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnGerador.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnLeitor.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnVFPe.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnVFPeW.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrIntegradorResposta.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnConsts.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnVFPeR.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBr_WinCrypt.o
+D:\Development\nfse-backend\src\lib\i386-win32\OpenSSLExt.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBr_NCrypt.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\messages.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBr_BCrypt.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBr_NTStatus.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\comobj.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\comconst.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\ole2.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-registry\registry.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrLibXml2.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrWinReqRespClass.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrWinHTTPReqResp.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrWinINetReqResp.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBr_WinHttp.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrMSXML2_TLB.o
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\oleserver.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrXmlBase.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrXmlDocument.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXWebservicesResponse.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXParametros.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrDFeReport.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXProviderManager.o
+D:\Development\nfse-backend\src\lib\i386-win32\PadraoNacional.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\BHISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\CIGA.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Contass.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\FISSLex.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\geNFe.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Ginfes.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\GovBr.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horus.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCuritiba.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSFortaleza.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSIntel.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSNatal.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSRecife.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSRio.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSalvador.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSJP.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Lexsom.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\MetropolisWeb.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\NFSeBrasil.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Publica.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SpeedGov.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Thema.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tinus.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ABase.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Actcon.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Adm.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ADPM.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\AEG.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Asten.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Centi.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Citta.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Coplan.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\DataSmart.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\DeISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Desenvolve.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Digifred.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\DSF.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\EloTech.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\eReceita.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Etherium.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\fintelISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Fiorilli.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Fisco.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Futurize.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\GestaoISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Giss.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\GovDigital.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\iiBrasil.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCamacari.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSDigital.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSe.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSGoiania.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSJoinville.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSPortoVelho.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSVitoria.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Libre.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Link3.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\MegaSoft.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Mitra.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ModernizacaoPublica.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\NEAInformatica.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\NotaInteligente.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Prodata.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\PublicSoft.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\RLZ.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Saatri.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SafeWeb.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SH3.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siam.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SiapNet.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SiapSistemas.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigCorp.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sigep.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sintese.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SisPMJP.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sistemas4R.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SSInformatica.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sudoeste.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SystemPro.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SysISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\TcheInfo.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tecnos.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tributus.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\VersaTecnologia.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Virtual.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Abaco.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Betha.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\DBSeller.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSNet.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Pronim.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SilTecnologia.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SimplISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tiplan.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\WebISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\EL.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Infisc.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\IPM.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SmarAPD.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Agili.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\AssessorPublico.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Bauhaus.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Conam.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\CTA.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\CTAConsult.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\eGoverneISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Equiplano.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Facundo.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\FGMaiss.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\GeisWeb.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Giap.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Governa.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Intertec.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSBarueri.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCambe.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSDSF.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSLencois.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSaoPaulo.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Prescon.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\PriMax.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siappa.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siat.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigISS.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigISSWeb.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\Simple.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\SoftPlan.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\WebFisco.Provider.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrJSON.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXGravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXLerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXProviderProprio.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrXmlWriter.o
+D:\Development\nfse-backend\src\lib\i386-win32\pcnSignature.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrXmlReader.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXProviderBase.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXConsts.o
+D:\Development\nfse-backend\src\lib\i386-win32\PadraoNacional.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\PadraoNacional.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXProviderABRASFv1.o
+D:\Development\nfse-backend\src\lib\i386-win32\BHISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\BHISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXGravarXml_ABRASFv1.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXLerXml_ABRASFv1.o
+D:\Development\nfse-backend\src\lib\i386-win32\CIGA.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\CIGA.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXProviderABRASFv2.o
+D:\Development\nfse-backend\src\lib\i386-win32\DBSeller.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DBSeller.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXGravarXml_ABRASFv2.o
+D:\Development\nfse-backend\src\lib\i386-win32\ACBrNFSeXLerXml_ABRASFv2.o
+D:\Development\nfse-backend\src\lib\i386-win32\Contass.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Contass.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\FISSLex.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\FISSLex.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\geNFe.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\geNFe.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Ginfes.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Ginfes.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GovBr.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GovBr.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horus.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horus.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCuritiba.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCuritiba.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSFortaleza.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSFortaleza.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSIntel.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSIntel.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSNatal.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSNatal.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSRecife.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSRecife.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSRio.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSRio.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSalvador.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSalvador.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSJP.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSJP.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Lexsom.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Lexsom.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\MetropolisWeb.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\MetropolisWeb.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\NFSeBrasil.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\NFSeBrasil.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Publica.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Publica.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SpeedGov.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SpeedGov.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Thema.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Thema.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tinus.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tinus.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ABase.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ABase.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Actcon.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Actcon.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Adm.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Adm.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ADPM.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ADPM.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\AEG.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\AEG.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Asten.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Asten.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Centi.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Centi.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Citta.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Citta.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Coplan.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Coplan.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DataSmart.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DataSmart.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DeISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DeISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Desenvolve.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Desenvolve.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Digifred.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Digifred.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DSF.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\DSF.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\EloTech.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\EloTech.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\eReceita.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\eReceita.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Etherium.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Etherium.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\fintelISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\fintelISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Fiorilli.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Fiorilli.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Fisco.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Fisco.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Futurize.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Futurize.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GestaoISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GestaoISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Giss.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Giss.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GovDigital.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GovDigital.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\iiBrasil.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\iiBrasil.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCamacari.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCamacari.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSDigital.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSDigital.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSe.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSe.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSGoiania.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSGoiania.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSJoinville.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSJoinville.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSPortoVelho.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSPortoVelho.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSVitoria.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSVitoria.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Libre.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Libre.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Link3.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Link3.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\MegaSoft.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\MegaSoft.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Mitra.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Mitra.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ModernizacaoPublica.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ModernizacaoPublica.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\NEAInformatica.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\NEAInformatica.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\NotaInteligente.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\NotaInteligente.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Prodata.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Prodata.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\PublicSoft.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\PublicSoft.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\RLZ.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\RLZ.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Saatri.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Saatri.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SafeWeb.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SafeWeb.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SH3.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SH3.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siam.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siam.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SiapNet.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SiapNet.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SiapSistemas.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SiapSistemas.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigCorp.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigCorp.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sigep.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sigep.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sintese.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sintese.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SisPMJP.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SisPMJP.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sistemas4R.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sistemas4R.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SSInformatica.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SSInformatica.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sudoeste.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Sudoeste.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SystemPro.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SystemPro.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SysISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SysISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\TcheInfo.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\TcheInfo.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tecnos.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tecnos.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tributus.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tributus.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\VersaTecnologia.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\VersaTecnologia.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Virtual.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Virtual.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Abaco.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Abaco.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Betha.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Betha.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSNet.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSNet.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Pronim.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Pronim.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SilTecnologia.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SilTecnologia.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SimplISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SimplISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tiplan.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Tiplan.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\WebISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\WebISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\EL.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\EL.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Infisc.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Infisc.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\IPM.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\IPM.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SmarAPD.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SmarAPD.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Agili.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Agili.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\AssessorPublico.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\AssessorPublico.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Bauhaus.GravarJson.o
+D:\Development\nfse-backend\src\lib\i386-win32\Bauhaus.LerJson.o
+D:\Development\nfse-backend\src\lib\i386-win32\Conam.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Conam.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\CTA.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\CTA.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\CTAConsult.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\CTAConsult.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\eGoverneISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\eGoverneISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Equiplano.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Equiplano.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\WebFisco.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\WebFisco.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Facundo.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Facundo.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\FGMaiss.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\FGMaiss.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GeisWeb.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\GeisWeb.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Giap.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Giap.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Governa.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Governa.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Intertec.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Intertec.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSBarueri.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSBarueri.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCambe.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSCambe.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSDSF.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSDSF.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSLencois.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSLencois.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSaoPaulo.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\ISSSaoPaulo.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Prescon.GravarJson.o
+D:\Development\nfse-backend\src\lib\i386-win32\Prescon.LerJson.o
+D:\Development\nfse-backend\src\lib\i386-win32\PriMax.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\PriMax.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siappa.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siappa.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siat.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Siat.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigISS.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigISS.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigISSWeb.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SigISSWeb.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Simple.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Simple.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SoftPlan.GravarXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\SoftPlan.LerXml.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Provider.FPC.HTTPApplication.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Mime.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Proc.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Request.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Response.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Commons.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Param.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.RouterTree.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Exception.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Exception.Interrupted.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Param.Config.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Callback.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\httpdefs.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\fphttp.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\fphttpapp.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Provider.Abstract.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Constants.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\httpprotocol.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\uriparser.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\httproute.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\custhttpapp.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\custweb.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-net\ssockets.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\fphttpserver.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-net\sslbase.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\custapp.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\eventlog.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\singleinstance.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-extra\sockets.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-extra\winsock2.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-net\resolve.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-extra\winsock.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-net\sslsockets.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\generics.collections.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Group.Contract.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Route.Contract.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\generics.memoryexpanders.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\generics.defaults.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\generics.helpers.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\generics.strings.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-generics\generics.hashes.o
+C:\fpcupdeluxe\fpc\units\i386-win32\regexpr\regexpr.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Param.Header.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Session.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Param.Field.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Param.Field.Brackets.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-json\jsonparser.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-json\jsonscanner.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-json\jsonreader.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Files.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.RouterTree.NextCaller.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Route.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Core.Group.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.WebModule.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-web\fpweb.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\fptemplate.o
+C:\fpcupdeluxe\fpc\units\i386-win32\fcl-base\base64.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Compression.Types.o
+D:\Development\nfse-backend\src\lib\i386-win32\nfse_dto.o
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\fgl.o
+D:\Development\nfse-backend\src\lib\i386-win32\DotEnv4Delphi.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.Provider.Console.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.Manager.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.Provider.Contract.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.Thread.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.Types.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Logger.Utils.o
+D:\Development\nfse-backend\src\lib\i386-win32\Horse.Utils.ClientIP.o
+)
+GROUP(
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpsysinitpas.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpsystem.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpwindows.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpfpintres.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpsysutils.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpwindirs.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-objpas\libimpvarutils.a
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\libimpshellapi.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl\libimpdos.a
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\libimpactivex.a
+C:\fpcupdeluxe\fpc\units\i386-win32\winunits-base\libimpwininet.a
+D:\Development\nfse-backend\src\lib\i386-win32\libimpACBr_WinCrypt.a
+D:\Development\nfse-backend\src\lib\i386-win32\libimpACBr_BCrypt.a
+D:\Development\nfse-backend\src\lib\i386-win32\libimpACBr_WinHttp.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-extra\libimpwinsock2.a
+C:\fpcupdeluxe\fpc\units\i386-win32\rtl-extra\libimpwinsock.a
+)
+SEARCH_DIR("/usr/i686-pc-cygwin/lib"); SEARCH_DIR("/usr/lib"); SEARCH_DIR("/usr/lib/w32api");
+OUTPUT_FORMAT(pei-i386)
+ENTRY(_mainCRTStartup)
+SECTIONS
+{
+  . = SIZEOF_HEADERS;
+  . = ALIGN(__section_alignment__);
+  .text  __image_base__ + ( __section_alignment__ < 0x1000 ? . : __section_alignment__ ) :
+  {
+    __text_start__ = . ;
+    *(.init)
+    *(.text .stub .text.* .gnu.linkonce.t.*)
+    *(SORT(.text$*))
+    *(.glue_7t)
+    *(.glue_7)
+    . = ALIGN(8);
+     ___CTOR_LIST__ = .; __CTOR_LIST__ = . ;
+    LONG (-1);
+    *(.ctors); *(.ctor); *(SORT(.ctors.*));  LONG (0);
+     ___DTOR_LIST__ = .; __DTOR_LIST__ = . ;
+    LONG (-1);
+    *(.dtors); *(.dtor); *(SORT(.dtors.*));  LONG (0);
+     *(.fini)
+    PROVIDE (etext = .);
+    *(.gcc_except_table)
+  }
+  .data BLOCK(__section_alignment__) :
+  {
+    __data_start__ = . ;
+    *(.data .data.* .gnu.linkonce.d.* .fpc*)
+    *(.data2)
+    *(SORT(.data$*))
+    *(.jcr)
+    PROVIDE (__tls_index = .);
+    LONG (0);
+    __data_end__ = . ;
+    *(.data_cygwin_nocopy)
+  }
+  .rdata BLOCK(__section_alignment__) :
+  {
+    *(.rdata)
+    *(.rdata.*)
+    *(.rodata .rodata.* .gnu.linkonce.r.*)
+    *(SORT(.rdata$*))
+    *(.eh_frame)
+    ___RUNTIME_PSEUDO_RELOC_LIST__ = .;
+    __RUNTIME_PSEUDO_RELOC_LIST__ = .;
+    *(.rdata_runtime_pseudo_reloc)
+    ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .;
+    __RUNTIME_PSEUDO_RELOC_LIST_END__ = .;
+  }
+  .pdata BLOCK(__section_alignment__) : { *(.pdata) }
+  .bss BLOCK(__section_alignment__) :
+  {
+    __bss_start__ = . ;
+    *(.bss .bss.* .gnu.linkonce.b.*)
+    *(SORT(.bss$*))
+    *(COMMON)
+    __bss_end__ = . ;
+  }
+  .edata BLOCK(__section_alignment__) : { *(.edata) }
+  .idata BLOCK(__section_alignment__) :
+  {
+    SORT(*)(.idata$2)
+    SORT(*)(.idata$3)
+    /* These zeroes mark the end of the import list.  */
+    LONG (0); LONG (0); LONG (0); LONG (0); LONG (0);
+    SORT(*)(.idata$4)
+    SORT(*)(.idata$5)
+    SORT(*)(.idata$6)
+    SORT(*)(.idata$7)
+  }
+  .CRT BLOCK(__section_alignment__) :
+  {
+    ___crt_xc_start__ = . ;
+    *(SORT(.CRT$XC*))  /* C initialization */
+    ___crt_xc_end__ = . ;
+    ___crt_xi_start__ = . ;
+    *(SORT(.CRT$XI*))  /* C++ initialization */
+    ___crt_xi_end__ = . ;
+    ___crt_xl_start__ = . ;
+    *(SORT(.CRT$XL*))  /* TLS callbacks */
+    /* ___crt_xl_end__ is defined in the TLS Directory support code */
+    PROVIDE (___crt_xl_end__ = .);
+    ___crt_xp_start__ = . ;
+    *(SORT(.CRT$XP*))  /* Pre-termination */
+    ___crt_xp_end__ = . ;
+    ___crt_xt_start__ = . ;
+    *(SORT(.CRT$XT*))  /* Termination */
+    ___crt_xt_end__ = . ;
+  }
+  .tls BLOCK(__section_alignment__) :
+  {
+    ___tls_start__ = . ;
+    *(.tls .tls.*)
+    *(.tls$)
+    *(SORT(.tls$*))
+    ___tls_end__ = . ;
+  }
+  .rsrc BLOCK(__section_alignment__) :
+  {
+    *(.rsrc)
+    *(SORT(.rsrc$*))
+  }
+  .reloc BLOCK(__section_alignment__) : { *(.reloc) }
+  .stab BLOCK(__section_alignment__) (NOLOAD) : { *(.stab) }
+  .stabstr BLOCK(__section_alignment__) (NOLOAD) : { *(.stabstr) }
+  .debug_aranges BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_aranges) }
+  .debug_pubnames BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_pubnames) }
+  .debug_info BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_info) *(.gnu.linkonce.wi.*) }
+  .debug_abbrev BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_abbrev) }
+  .debug_line BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_line) }
+  .debug_frame BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_frame) }
+  .debug_str BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_str) }
+  .debug_loc BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_loc) }
+  .debug_macinfo BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_macinfo) }
+  .debug_weaknames BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_weaknames) }
+  .debug_funcnames BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_funcnames) }
+  .debug_typenames BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_typenames) }
+  .debug_varnames BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_varnames) }
+  .debug_ranges BLOCK(__section_alignment__) (NOLOAD) : { *(.debug_ranges) }
+}

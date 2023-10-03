@@ -1,0 +1,71 @@
+{
+   "portador":{
+      "cpfCnpj":"02618868000185",
+      "razaoSocial":"NAJATEC Tecnologia Ltda",
+      "endereco":{
+         "bairro":"Centro",
+         "cep":"81830350",
+         "codigoCidade":"4125506",
+         "UF":"PR",
+         "logradouro":"Rua Tenente Djalma Dutra, 915",
+         "numero":"1158",
+         "codigoPais":"1058",
+         "complemento":"8o Andar",
+         "descricaoCidade":"string",
+         "descricaoPais":"Brasil"
+      },
+      "email":"contato@najatec.com.br",
+      "inscricaoEstadual":"11042340",
+      "inscricaoMunicipal":"123456",
+      "inscricaoSuframa":"",
+      "nomeFantasia":"NAJATEC",
+      "telefone":{
+         "DDD":"41",
+         "numero":"30812040"
+      },
+      "regimeTributaria":0,
+      "regimeTributarioEspecial":0,
+      "simplesNacional":true,
+      "codigoDistrito":999,
+      "incentivadorCultural":false,
+      "incentivoFiscal":false,
+      "codigoEstrangeiro":""
+   },
+   "tomador":{
+      "cpfCnpj":"02618868000185",
+      "razaoSocial":"NAJATEC Tecnologia Ltda",
+      "endereco":{
+         "bairro":"Centro",
+         "cep":"81830350",
+         "codigoCidade":"4125506",
+         "UF":"PR",
+         "logradouro":"Rua Tenente Djalma Dutra, 915",
+         "numero":"1158",
+         "codigoPais":"1058",
+         "complemento":"8o Andar",
+         "descricaoCidade":"string",
+         "descricaoPais":"Brasil"
+      },
+      "email":"contato@najatec.com.br",
+      "inscricaoEstadual":"11042340",
+      "inscricaoMunicipal":"123456",
+      "inscricaoSuframa":"",
+      "nomeFantasia":"NAJATEC",
+      "orgaoPublico":false,
+      "telefone":{
+         "DDD":"41",
+         "numero":"30812040"
+      },
+      "indicadorInscricaoEstadual":0,
+      "codigoEstrangeiro":""
+   },
+   "valor":{
+      "Servico":100.24,
+      "BaceCalculo":100.26,
+      "Deducoes":10.00,
+      "DescontoCondicionado":10.44,
+      "DescontoIncondicionado":11.33,
+      "Liquido":95.00,
+      "Unitario":10.00
+   }
+}

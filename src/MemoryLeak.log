@@ -1,0 +1,268 @@
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+217 memory blocks allocated : 7715/8240
+217 memory blocks freed     : 7715/8240
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+216 memory blocks allocated : 7583/8104
+216 memory blocks freed     : 7583/8104
+0 unfreed memory blocks : 0
+True heap size : 294912 (128 used in System startup)
+True free heap : 294784
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+662 memory blocks allocated : 46828/48208
+659 memory blocks freed     : 46664/48040
+3 unfreed memory blocks : 164
+True heap size : 360448 (128 used in System startup)
+True free heap : 359824
+Should be : 359864
+Call trace for block $062C28C0 size 64
+  $77DD8A92
+  $77DD8A64
+  $77DC4F86
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+Call trace for block $06330CE0 size 92
+  $00429C25
+  $00413650
+  $77DD8A92
+  $77DD8A64
+  $77DC4F86
+  $0040E014
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+Call trace for block $0631A7F0 size 8
+  $004968E9  NEW,  line 196 of modules/horse-logger-provider-console/src/Horse.Logger.Provider.Console.pas
+  $0043B81B  CONSOLE_CONTROLLER_$$_init$,  line 87 of console_controller.pas
+  $0040E014
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+662 memory blocks allocated : 46828/48208
+659 memory blocks freed     : 46664/48040
+3 unfreed memory blocks : 164
+True heap size : 360448 (128 used in System startup)
+True free heap : 359824
+Should be : 359864
+Call trace for block $05F82860 size 64
+  $77DD8A92
+  $77DD8A64
+  $77DC4F86
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+Call trace for block $05FF0CD8 size 92
+  $00429C05
+  $00413630
+  $77DD8A92
+  $77DD8A64
+  $77DC4F86
+  $0040DFF4
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+Call trace for block $05FDA790 size 8
+  $004968C9  NEW,  line 196 of modules/horse-logger-provider-console/src/Horse.Logger.Provider.Console.pas
+  $0043B7FB  CONSOLE_CONTROLLER_$$_init$,  line 87 of console_controller.pas
+  $0040DFF4
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe 
+Heap dump by heaptrc unit of D:\Development\Projects\12. Testes ACBR (11.09.23)\nfse_service.exe
+662 memory blocks allocated : 46828/48208
+659 memory blocks freed     : 46664/48040
+3 unfreed memory blocks : 164
+True heap size : 360448 (128 used in System startup)
+True free heap : 359824
+Should be : 359864
+Call trace for block $06292860 size 64
+  $77DD8A92
+  $77DD8A64
+  $77DC4F86
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+Call trace for block $06300CD8 size 92
+  $00429BF5
+  $00413620
+  $77DD8A92
+  $77DD8A64
+  $77DC4F86
+  $0040DFE4
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+Call trace for block $062EA790 size 8
+  $004968B9  NEW,  line 196 of modules/horse-logger-provider-console/src/Horse.Logger.Provider.Console.pas
+  $0043B7EB  CONSOLE_CONTROLLER_$$_init$,  line 87 of console_controller.pas
+  $0040DFE4
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D
+  $BAADF00D

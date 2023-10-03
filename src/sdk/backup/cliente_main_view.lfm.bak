@@ -1,0 +1,62 @@
+object Form1: TForm1
+  Left = -531
+  Height = 433
+  Top = 242
+  Width = 357
+  Caption = 'Form1'
+  ClientHeight = 433
+  ClientWidth = 357
+  LCLVersion = '2.2.6.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 433
+    Top = 0
+    Width = 357
+    Align = alClient
+    Caption = 'Panel1'
+    ClientHeight = 433
+    ClientWidth = 357
+    TabOrder = 0
+    object btmGetInfoCertificado: TButton
+      Left = 56
+      Height = 25
+      Top = 48
+      Width = 235
+      Caption = 'Certificado Info'
+      OnClick = btmGetInfoCertificadoClick
+      TabOrder = 0
+    end
+    object edtCnpj: TEdit
+      Left = 56
+      Height = 23
+      Top = 16
+      Width = 235
+      TabOrder = 1
+      Text = '02618868000185'
+    end
+    object mmResult: TMemo
+      Left = 16
+      Height = 248
+      Top = 80
+      Width = 320
+      TabOrder = 2
+    end
+    object btmSaveFilePdf: TButton
+      Left = 16
+      Height = 25
+      Top = 344
+      Width = 139
+      Caption = 'Receber Arquivo PDF'
+      OnClick = btmSaveFilePdfClick
+      TabOrder = 3
+    end
+  end
+  object btmSaveFileXml: TButton
+    Left = 198
+    Height = 25
+    Top = 344
+    Width = 139
+    Caption = 'Receber Arquivo XML'
+    TabOrder = 1
+  end
+end

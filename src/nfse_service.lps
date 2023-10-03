@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="nfse_service.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="45"/>
+        <UsageCount Value="221"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\nfse_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="29" Y="154"/>
+        <UsageCount Value="221"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_certificado_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="50"/>
+        <CursorPos X="8" Y="57"/>
+        <UsageCount Value="221"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="93"/>
+        <CursorPos X="17" Y="111"/>
+        <UsageCount Value="221"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_empresa_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="32" Y="27"/>
+        <UsageCount Value="221"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_getfake_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="221"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_health_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="221"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_quit_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="221"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_relatorios_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="28"/>
+        <UsageCount Value="221"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_webhook_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="9" Y="27"/>
+        <UsageCount Value="221"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="12" Y="9"/>
+        <UsageCount Value="220"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\console_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="28" Y="20"/>
+        <UsageCount Value="220"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\endereco_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="3" Y="19"/>
+        <UsageCount Value="207"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\telefone_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="25" Y="24"/>
+        <UsageCount Value="207"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\tomador_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="21" Y="25"/>
+        <UsageCount Value="207"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\prestador_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="24" Y="29"/>
+        <UsageCount Value="207"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\valor_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\servico_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="29" Y="55"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\iss_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\obra_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\deducao_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\retencao_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\ibpt_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="19"/>
+        <UsageCount Value="206"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\detalhado_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\simplificado_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\pis_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\confins_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\csll_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="38" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\inss_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\irrf_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\cpp_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="205"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\intermediario_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="25" Y="29"/>
+        <UsageCount Value="303"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="adapter\json_nfsedto_adapter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="253"/>
+        <CursorPos X="14" Y="283"/>
+        <UsageCount Value="260"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="adapter\nfsedto_acbrnfse_adapter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="40"/>
+        <CursorPos X="54" Y="15"/>
+        <UsageCount Value="257"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utils\nfse_valid_json.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="25" Y="49"/>
+        <UsageCount Value="256"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="37" Y="17"/>
+        <UsageCount Value="205"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\nfse_cancelamento_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="13" Y="5"/>
+        <UsageCount Value="203"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="sdk\nfse_sdk.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="10"/>
+        <UsageCount Value="91"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\assets\acbr\Fontes\ACBrDFe\ACBrDFeSSL.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="172"/>
+        <CursorPos X="23" Y="322"/>
+        <UsageCount Value="14"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="18" Y="32"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <OtherDefines Count="2">
+      <Define0 Value="NOGUI"/>
+      <Define1 Value="UseCThreads"/>
+    </OtherDefines>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="75" Column="26" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="49" Column="47" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="74" Column="23" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="88" Column="37" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_certificado_controller.pas"/>
+        <Caret Line="29" Column="37" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_certificado_controller.pas"/>
+        <Caret Line="92" Column="27" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_certificado_controller.pas"/>
+        <Caret Line="71" Column="30" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="nfse_service.lpr"/>
+        <Caret Line="79" Column="28" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="68" Column="12" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="67" Column="22" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="136" Column="55" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="284" Column="45" TopLine="268"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\nfse_dto.pas"/>
+        <Caret Line="154" Column="29" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="20" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="21" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="63" Column="31" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="32" Column="15" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="13" Column="37" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="29" Column="15" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="79" Column="10" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="24" Column="63" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="46" Column="38" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="model\dto\certificado_dto.pas"/>
+        <Caret Line="17" Column="37" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="43" Column="27" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="41" Column="11" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_certificado_controller.pas"/>
+        <Caret Line="65" Column="39" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_certificado_controller.pas"/>
+        <Caret Line="72" Column="39" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="94" Column="11" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="56" Column="40" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="service\acbr_nfse_service.pas"/>
+        <Caret Line="76" Column="25" TopLine="53"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

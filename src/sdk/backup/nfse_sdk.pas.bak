@@ -1,0 +1,89 @@
+unit nfse_sdk;
+
+{$mode ObjFPC}{$H+}
+
+interface
+
+uses
+  Classes,
+  SysUtils,
+  Dialogs,
+
+  { Rest4Delphi }
+  RESTRequest4D,
+
+  { json }
+  fpjson,
+  fpjsonrtti,
+
+  { dto's }
+  certificado_info_dto;
+
+const
+  URL_BASE: string = '176.0.0.159';
+  PORT: string = '57007';
+
+type
+  { INFSeSDK }
+  INFSeSDK = interface
+    function PostEnviar: string;
+    function GetCertificadoInfo(Cnpj: string): TCertificadoInfo;
+    function GetUrl(Field: string): string;
+  end;
+
+  { TNFSeSDK }
+  TNFSeSDK = class(TInterfacedObject, INFSeSDK)
+  private
+    function GetUrl(Field: string): string;
+
+  public
+    class function New: INFSeSDK;
+    constructor Create;
+    destructor Destroy; override;
+
+    //Métodos
+    function PostEnviar: string;
+    function GetCertificadoInfo(Cnpj: string): TCertificadoInfo;
+
+  end;
+
+
+implementation
+
+{ TNFseSDK }
+class function TNFSeSDK.New: INFSeSDK;
+begin
+  Result := self.Create;
+end;
+
+constructor TNFSeSDK.Create;
+begin
+
+end;
+
+destructor TNFSeSDK.Destroy;
+begin
+  inherited Destroy;
+end;
+
+{ MÉTODOS }
+function TNFSeSDK.PostEnviar: string;
+begin
+
+end;
+
+function TNFSeSDK.GetCertificadoInfo(Cnpj: string): TCertificadoInfo;
+var
+  Response: IResponse;
+begin
+  Response := TRequest.New.BaseURL(GetUrl('certificado')).Accept('application/json').Get;
+
+  ShowMessage(Response.Content);
+end;
+
+function TNFSeSDK.GetUrl(Field: string): string;
+begin
+  Result := 'https://' + URL_BASE + ':' + PORT + '/' + Field + '/';
+end;
+
+end.

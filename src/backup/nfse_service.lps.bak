@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="nfse_service.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="39" Y="37"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model\dto\nfse_dto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="183"/>
+        <CursorPos X="15" Y="534"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="79"/>
+        <CursorPos X="4" Y="136"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utils\NT.Http.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="10"/>
+        <UsageCount Value="22"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="8" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="modules\json4laz\src\Jsons.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="493"/>
+        <CursorPos X="31" Y="510"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="modules\json4laz\src\JsonsUtilsEx.pas"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="24" Column="60" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="40" Column="35" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="23" Column="22" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="nfse_service.lpr"/>
+        <Caret Line="37" Column="48" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="49" Column="21" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="42" Column="50" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="45" Column="17" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="46" Column="13" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="59" Column="55" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="55" Column="9" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="58" Column="32" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="61" Column="54" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="58" Column="27" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="23" Column="27" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="37" Column="24" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="36" Column="4" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="23" Column="33" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="48" Column="17" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="50" Column="18" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="87" Column="9" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="37" Column="24" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="111" Column="15" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="62" Column="3" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="127" Column="34" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="controller\nfse_controller.pas"/>
+        <Caret Line="19" Column="30" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="13" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="10" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="23" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="service\nfse_acbr_service.pas"/>
+        <Caret Line="10" Column="7"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
